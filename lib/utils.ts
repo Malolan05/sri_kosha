@@ -13,6 +13,10 @@ import brahmaSutraAdhyayaOne from '@/data/scriptures/brahma-sutra-adhyaya-one.js
 import brahmaSutraAdhyayaTwo from '@/data/scriptures/brahma-sutra-adhyaya-two.json'
 import brahmaSutraAdhyayaThree from '@/data/scriptures/brahma-sutra-adhyaya-three.json'
 import brahmaSutraAdhyayaFour from '@/data/scriptures/brahma-sutra-adhyaya-four.json'
+import purushakaramimamsa from '@/data/scriptures/purushakara-mimamsa.json'
+import stotraratna from '@/data/scriptures/stotraratna.json'
+import vedarthasangraha from '@/data/scriptures/vedarthasangraha.json'
+import natvachandrikapramukhacapetika from '@/data/scriptures/natvacandrika-pramukhacapetika.json'
 // Create a map of all scriptures
 const scripturesData: Scripture[] = [
   sriParameshvaraSamhita,
