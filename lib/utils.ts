@@ -24,7 +24,11 @@ const scripturesData: Scripture[] = [
   brahmaSutraAdhyayaOne,
   brahmaSutraAdhyayaTwo,
   brahmaSutraAdhyayaThree,
-  brahmaSutraAdhyayaFour
+  brahmaSutraAdhyayaFour,
+  purushakaramimamsa,
+  stotraratna,
+  vedarthasangraha,
+  natvachandrikapramukhacapetika
 ]
 
 export function getScriptType(text: string): 'devanagari' | 'tamil' | 'latin' | 'mixed' {
